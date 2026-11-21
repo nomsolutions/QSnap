@@ -6,7 +6,7 @@
 [![Downloads](https://img.shields.io/github/downloads/nomsolutions/QSnap/total?label=Lượt%20tải)](https://github.com/nomsolutions/QSnap/releases)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows)
 ![Free](https://img.shields.io/badge/Giá-Miễn%20phí-2ea44f)
-
+### [⬇️ Tải QSnap.exe (bản mới nhất)](https://github.com/nomsolutions/QSnap/releases/latest/download/QSnap.exe)
 <img width="457" height="569" alt="Ảnh cài đặt" src="https://github.com/user-attachments/assets/edd7975d-6303-4ed2-a1dc-29418a5b5748" />
 
 ## Tính năng
@@ -22,7 +22,7 @@
 
 ## Cài đặt
 
-1. Tải **`QSnap.exe`** tại trang [Releases](https://github.com/nomsolutions/QSnap/releases/latest).
+1. Tải **[QSnap.exe](https://github.com/nomsolutions/QSnap/releases/latest/download/QSnap.exe)** (bản mới nhất), hoặc chọn phiên bản tại trang [Releases](https://github.com/nomsolutions/QSnap/releases).
 2. Chạy tệp vừa tải. QSnap tự cài cho người dùng hiện tại (không cần quyền quản trị):
    - Ứng dụng: `%LocalAppData%\Programs\NOM Solutions\QSnap`
    - Có shortcut trong **Start Menu**, mục gỡ cài đặt trong **Settings → Apps**.
